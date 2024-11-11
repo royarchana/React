@@ -1,0 +1,16 @@
+.icons {
+  display: flex;
+  gap: 8px;
+  cursor: pointer;
+}
+
+.cardActions {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px;
+  border-top: 1px solid #e0e0e0;
+  color: #6200ea;
+  background: none;
+  border: none;
+}

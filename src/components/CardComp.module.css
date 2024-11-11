@@ -1,0 +1,15 @@
+.cardheader {
+  display: flex;
+  flex: 50%;
+  align-items: center;
+}
+
+.card {
+  display: flex;
+  flex: 50%;
+  margin: 10px;
+  display: block;
+  background-color: whitesmoke;
+  padding: 10px;
+  border-radius: 8px;
+}
